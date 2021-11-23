@@ -53,7 +53,7 @@ body {
     width: 70vmin;
     height: 70vmin;
     background-color: #000;
-    background-image: linear-gradient(to bottom, #053d1b, 80%, #52b132);
+    background-image: linear-gradient(to bottom, #05143d, 80%, #326db1);
     box-shadow: 8px -8px 20px 13px #012918 inset, -4px 7px 4px 1px #022416;
     border-radius: 50%;
     position: relative;
