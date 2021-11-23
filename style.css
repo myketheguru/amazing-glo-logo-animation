@@ -66,12 +66,12 @@ body {
 }
 
 .glo:hover {
-    box-shadow: 8px -8px 20px 13px #012918 inset, 0px 0px 15px 15px #2faa36;
+    box-shadow: 8px -8px 20px 13px #012918 inset, 0px 0px 15px 15px #2f9caa;
 }
 
 .glo:hover + .bg {
     transition: background 0.5s ease-in-out 1s;
-    background: linear-gradient(to bottom, #111, #2faa36);
+    background: linear-gradient(to bottom, #111, #2f87aa);
 }
 
 .glo:hover ~ h1 {
